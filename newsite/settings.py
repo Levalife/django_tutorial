@@ -1,6 +1,7 @@
 # Django settings for newsite project.
 
 DEBUG = True
+
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
